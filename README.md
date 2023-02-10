@@ -2,7 +2,7 @@
 Stock Market Real-Time Data Analysis Using Kafka | End-To-End Data Engineering Project
 
 ## Architecture 
-<img src="Architecture.jpg">
+<img src="kafka-stock-market-project-architecture.jpg">
 
 ## Technology Used
 - Programming Language - Python
